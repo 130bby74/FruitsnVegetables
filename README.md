@@ -74,4 +74,5 @@ The HTML Coverage will be generated in the directory `tests/Coverage`
 ## 📝 Addiotional Notes
 
 I changed some data in the `request.json` file to make it more realistic ( Lettuce -> vegetable and Tomatoes -> fruit)
+
 I added the .env to the commited files to make it easier to run the project. In a real world scenario, I would have added it to the .gitignore file.
